@@ -1,0 +1,4 @@
+USERNAME = "aa00zz"
+EMAIL = USERNAME + "@brocku.ca"
+PASSWORD = "insecure"
+TOTP_GEN="012356789abcdef"
